@@ -146,8 +146,5 @@ LLM Response
 Answer + Sources
 ```
 
-## Portfolio Description
-
-**AI Document Support Agent** is an AI-powered document assistant that allows companies to upload contracts, manuals, policies, and internal documentation. Users can ask questions in natural language and receive answers grounded in the uploaded documents, with source references.
 
 
