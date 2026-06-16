@@ -150,16 +150,4 @@ Answer + Sources
 
 **AI Document Support Agent** is an AI-powered document assistant that allows companies to upload contracts, manuals, policies, and internal documentation. Users can ask questions in natural language and receive answers grounded in the uploaded documents, with source references.
 
-## Important Notes
 
-This is a strong MVP for portfolio and learning. For real production use, add:
-
-- User authentication
-- Tenant/company separation
-- File deletion
-- Role-based access
-- Better PDF OCR support
-- Database logs
-- Rate limiting
-- Admin dashboard
-- Deployment configuration
